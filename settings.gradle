@@ -1,0 +1,5 @@
+rootProject.name = 'com.delta.common'
+include 'core'
+include 'offerSummary'
+
+
